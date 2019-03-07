@@ -283,13 +283,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-primary {
-  background: #539DDB;
+  background: #ffcc33;
   color: #fff;
-  border: 2px solid #539DDB;
+  border: 2px solid #ffcc33;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #68a9df !important;
-  border-color: #68a9df !important;
+  background: #25d366 !important;
+  border-color: #25d366 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
