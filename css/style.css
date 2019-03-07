@@ -39,7 +39,7 @@ body.menu-show {
 }
 
 a {
-  color: #539DDB;
+  color: #ffcc33;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -1164,7 +1164,7 @@ input[type="text"] {
   padding-top: 4em;
 }
 #footer a {
-  color: black;
+  color: #ffcc33;
 }
 #footer a:hover, #footer a:focus {
   text-decoration: none;
