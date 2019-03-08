@@ -55,7 +55,7 @@ a:focus, a:active {
 p, span {
   margin-bottom: 1.5em;
   font-size: 18px;
-  color: #727272;
+  color: #333333;
   font-weight: 300;
   font-family: "Karla", Arial, sans-serif;
 }
@@ -66,7 +66,7 @@ span {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: rgba(0, 0, 0, 0.8);
+  color: #000000;
   font-family: "Playfair Display", Arial, serif;
   font-weight: 300;
   margin: 0 0 30px 0;
@@ -186,7 +186,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 #fh5co-main-nav h1 .fh5co-logo {
-  color: #fff;
+  color: #ffffff;
 }
 #fh5co-main-nav h1 .fh5co-logo:hover {
   text-decoration: none;
@@ -210,7 +210,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-main-nav ul li a {
   display: block;
   width: 100%;
-  color: rgba(255, 255, 255, 0.8);
+  color: #666666;
   font-size: 30px;
   padding: 10px 20px;
 }
@@ -284,7 +284,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-primary {
   background: #ffcc33;
-  color: #fff;
+  color: #ffffff;
   border: 2px solid #ffcc33;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -543,7 +543,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   transition: 0.2s;
 }
 .menu-show .fh5co-nav-toggle i::before, .menu-show .fh5co-nav-toggle i::after {
-  background: #fff;
+  background: #ffcc33;
 }
 @media screen and (max-width: 992px) {
   .fh5co-nav-toggle i {
@@ -711,7 +711,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 {
   font-size: 60px;
   font-weight: 400;
-  color: #fff;
+  color: #000000;
 }
 @media screen and (max-width: 768px) {
   #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 {
@@ -719,7 +719,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   }
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner p {
-  color: rgba(255, 255, 255, 0.8);
+  color: #ffffff;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner p .btn:hover {
   color: #fff !important;
@@ -849,12 +849,12 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   box-shadow: 0px 10px 30px -13px rgba(0, 0, 0, 0.75);
 }
 .post-entry .desc h3 {
-  color: #fff;
+  color: #000000;
   font-size: 40px;
   line-height: 54px;
 }
 .post-entry .desc p {
-  color: rgba(255, 255, 255, 0.8);
+  color: #ffffff;
   margin-bottom: 0;
 }
 .post-entry .desc .date {
@@ -939,7 +939,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   margin-bottom: .3em;
 }
 .fh5co-counters .fh5co-counter-label {
-  color: #fff;
+  color: #ffcc33;
   text-transform: uppercase;
   font-size: 13px;
   letter-spacing: 5px;
