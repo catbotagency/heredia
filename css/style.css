@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 20px;
   height: 50px;
   width: 50px;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0);
   line-height: 0;
   padding: 0 !important;
   visibility: hidden;
@@ -210,7 +210,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-main-nav ul li a {
   display: block;
   width: 100%;
-  color: #666666;
+  color: #ffffff;
   font-size: 30px;
   padding: 10px 20px;
 }
@@ -221,7 +221,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #fh5co-main-nav ul li a:hover, #fh5co-main-nav ul li a:active, #fh5co-main-nav ul li a:focus {
-  color: white;
+  color: #ffcc33;
   outline: none;
   text-decoration: none;
 }
