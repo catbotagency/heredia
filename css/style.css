@@ -932,14 +932,14 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
 .fh5co-counters .fh5co-counter {
   font-size: 60px;
   display: block;
-  color: #fff;
+  color: #ffcc33;
   font-family: "Karla", Arial, sans-serif;
   width: 100%;
   font-weight: 700;
   margin-bottom: .3em;
 }
 .fh5co-counters .fh5co-counter-label {
-  color: #ffcc33;
+  color: #ffffff;
   text-transform: uppercase;
   font-size: 13px;
   letter-spacing: 5px;
