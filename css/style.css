@@ -1164,11 +1164,11 @@ input[type="text"] {
   padding-top: 4em;
 }
 #footer a {
-  color: #ffcc33;
+  color: #000000;
 }
 #footer a:hover, #footer a:focus {
   text-decoration: none;
-  color: #539DDB;
+  color: #ffcc33;
 }
 #footer .form-inline .form-group {
   width: 100% !important;
