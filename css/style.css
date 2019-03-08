@@ -1090,17 +1090,17 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   margin: 0 0 20px 0;
   position: relative;
   padding-left: 40px;
-  color: #000000;
+  color: #ffcc33;
 }
 .contact-info li i {
   position: absolute;
   top: .3em;
   left: 0;
   font-size: 22px;
-  color: #727272;
+  color: #ffcc33;
 }
 .contact-info li a {
-  color: #727272;
+  color: #ffcc33;
 }
 
 .form-control {
