@@ -486,7 +486,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
 }
 @media screen and (max-width: 992px) {
   header .fh5co-navbar-brand .fh5co-social-icon a i {
-    color: #000000;
+    color: #ffcc33;
   }
 }
 @media screen and (max-width: 480px) {
