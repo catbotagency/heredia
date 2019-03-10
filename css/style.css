@@ -535,7 +535,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   content: '';
   width: 30px;
   height: 2px;
-  background: #ffcc33;
+  background: #000000;
   position: absolute;
   left: 0;
   -webkit-transition: 0.2s;
@@ -1204,7 +1204,7 @@ input[type="text"] {
   padding: 0 5px;
 }
 .fh5co-social-icon a i {
-  color: #000000;
+  color: #ffcc33;
 }
 .fh5co-social-icon a:hover, .fh5co-social-icon a:focus {
   text-decoration: none;
