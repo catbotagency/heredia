@@ -543,7 +543,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   transition: 0.2s;
 }
 .menu-show .fh5co-nav-toggle i::before, .menu-show .fh5co-nav-toggle i::after {
-  background: #000000;
+  background: #ffcc33;
 }
 @media screen and (max-width: 992px) {
   .fh5co-nav-toggle i {
