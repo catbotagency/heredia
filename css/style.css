@@ -524,7 +524,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   font: bold 14px/.4 Helvetica;
   text-transform: uppercase;
   text-indent: -55px;
-  background: #ffcc33;
+  background: #000000;
   transition: all .2s ease-out;
 }
 .menu-show .fh5co-nav-toggle i {
