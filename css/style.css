@@ -879,12 +879,12 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
-  height: 800px;
+  height: 600px;
   margin-bottom: 30px;
 }
 .work .view {
   width: 100%;
-  height: 800px;
+  height: 600px;
   display: table;
   opacity: 0;
   padding: 0;
@@ -899,7 +899,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   }
 }
 .work .view span, .work .view i {
-  height: 800px;
+  height: 600px;
   display: table-cell;
   vertical-align: middle;
   font-size: 12px;
